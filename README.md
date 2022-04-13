@@ -1,1 +1,2 @@
-# adventuriamc.launcher
+## AdventuriaMC
+Le futur d'un launcher
